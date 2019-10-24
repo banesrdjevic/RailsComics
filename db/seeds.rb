@@ -13,6 +13,7 @@ Site.spawn('http://www.explosm.net')
 Site.spawn('http://www.harkavagrant.com')
 Site.spawn('http://www.xkcd.com')
 Site.spawn('http://www.twogag.com')
+Site.spawn('http://www.extrafabulouscomics.com')
 
 # doc = Nokogiri::HTML(open('http://www.pastemagazine.com/blogs/lists/2013/12/the-13-best-webcomics-of-2013.html'))
 
